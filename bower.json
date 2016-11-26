@@ -1,0 +1,17 @@
+{
+  "name": "ci",
+  "authors": [
+    "AubonwanSaunwan <Aubonwan_oum8hotmail.om>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
